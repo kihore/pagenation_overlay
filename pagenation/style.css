@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(161, 161, 161);
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.btn{
+  font-size: 30px;
+  margin: 70px;
+  background-color: rgb(0, 0, 0);
+}
+.table-list{
+  font-size: 70px;
+  margin: 100px;
+  display: relative;
+}
+.container{
+  justify-content: center;
+  align-items: center;
+}
